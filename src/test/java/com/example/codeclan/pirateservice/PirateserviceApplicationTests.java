@@ -24,7 +24,7 @@ class PirateserviceApplicationTests {
 		// get hold of pirate repository and save a pirate object.
 		pirateRepository.save(pirate);
 
-		// don't need an assert in this case - it is being used illustrate a point.
+		// don't need an assert in this case - it is being used to illustrate a point.
 
 	}
 
